@@ -1,0 +1,10 @@
+ 
+<span id="a">root@Naveen</span>:<span id="b">~</span><span id="c">$</span> cat Naveenraj.txt<br/><br/>
+Hello, I am "<span id="k">Naveen Raj</span>"
+
+I am a cyber security enthusiast, exploring multiple dimensions of the field and aspiring to work with various technologies.
+ 
+<p> I am a Founder & CEO of Ninja Devs, we believe that in this growing age of technology, it is essential for businesses to be well equipped to build their digital presence so that they can broaden their reach and grow exponentially. With the seamless fusion of design and development we assure that you get only the very best. <a href="https://www.ninjadevs.codes/" target="_blank">Ninja Devs</a></p> 
+<p id="h"> Hacker by Passion, Developer by Profession</p> <span id="a">root@Naveen</span>:<span id="b">~</span><span id="c">$</span> cat Contact.txt<br/><br/>     
+<p>Social Handles:<br> <a href="linhttps://www.linkedin.com/in/naveen-raj-188776217k"target="_blank">Linkedin</a> <br> <a href="https://www.instagram.com/naveenraj_offcl/?hl=en"target="_blank"> Instagram</a><br> <a href="https://twitter.com/Naveenraj_offcl?t=86WuPI2_9c5ANoT7J7MewA&s=09" target="_blank">Twitter</a></p>
+<span id="a">root@Naveen</span>:<span id="b">~</span><span id="c">$</span>Cool!<br/>
