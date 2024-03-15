@@ -1,10 +1,19 @@
  
-<span id="a">root@Naveen</span>:<span id="b">~</span><span id="c">$</span> cat Naveenraj.txt<br/><br/>
-Hello, I am "<span id="k">Naveen Raj</span>"
+<span id="a">root@Naveen</span>:<span id="b">~</span><span id="c">$</span> cat Naveenraj.me<br/><br/>
+Hello, I am "<span id="k">Naveenraj</span>"
+Entrepreneur Founder & CEO, Neulancers
 
-I am a cyber security enthusiast, exploring multiple dimensions of the field and aspiring to work with various technologies.
- 
-<p> I am a Founder & CEO of Ninja Devs, we believe that in this growing age of technology, it is essential for businesses to be well equipped to build their digital presence so that they can broaden their reach and grow exponentially. With the seamless fusion of design and development we assure that you get only the very best. <a href="https://www.ninjadevs.codes/" target="_blank">Ninja Devs</a></p> 
+
+<p> As a self-proclaimed tech enthusiast, my journey commenced in 2021 within the realm of cybersecurity. With an insatiable curiosity and a hunger for knowledge, I delved deep into the intricacies of this field, absorbing insights and honing my skills.
+
+Driven by a relentless entrepreneurial spirit, I transitioned from cybersecurity into the dynamic world of startups. In 2021, I founded <a href="https://www.neulancers.com/" target="_blank">Neulancers</a>, a pioneering venture dedicated to empowering clients with bespoke technical solutions crafted from the latest advancements in technology. At Neulancers, we navigate the digital landscape with innovation at our core, harnessing cutting-edge technologies to shape the future.
+
+My role as the founder of Neulancers has provided me with invaluable hands-on experience in project management, client relations, and digital marketing. Through these endeavors, I've cultivated a robust skill set, enabling me to navigate the complexities of the entrepreneurial landscape with confidence and finesse.
+
+Fuelled by a steadfast commitment to research and analysis, I remain at the forefront of industry trends, continuously seeking out innovative solutions to multifaceted challenges. My journey is characterized by a relentless pursuit of knowledge and a passion for exploring new frontiers. As I continue to steer Neulancers towards its vision, I remain dedicated to learning and mastering emerging technologies, perpetually striving to push the boundaries of what's possible.</p> 
+
 <p id="h"> Hacker by Passion, Developer by Profession</p> <span id="a">root@Naveen</span>:<span id="b">~</span><span id="c">$</span> cat Contact.txt<br/><br/>     
-<p>Social Handles:<br> <a href="linhttps://www.linkedin.com/in/naveen-raj-188776217k"target="_blank">Linkedin</a> <br> <a href="https://www.instagram.com/naveenraj_offcl/?hl=en"target="_blank"> Instagram</a><br> <a href="https://twitter.com/Naveenraj_offcl?t=86WuPI2_9c5ANoT7J7MewA&s=09" target="_blank">Twitter</a></p>
+
+
+<p>Social Handles:<br> <a href="https://www.linkedin.com/in/naveenraj-r/"target="_blank">Linkedin</a> <br> <a href="https://www.instagram.com/naveenraj_me/"target="_blank"> Instagram</a><br> <a href="https://x.com/Naveenraj_me?t=9P5sYeOlOpWy3GZGmaughg&s=09" target="_blank">Twitter</a></p>
 <span id="a">root@Naveen</span>:<span id="b">~</span><span id="c">$</span>Cool!<br/>
