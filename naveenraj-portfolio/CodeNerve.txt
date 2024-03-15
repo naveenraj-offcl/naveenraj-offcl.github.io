@@ -1,4 +1,4 @@
- 
+
 <span id="a">root@Naveen</span>:<span id="b">~</span><span id="c">$</span> cat Naveenraj.me<br/><br/>
 Hello, I am "<span id="k">Naveenraj</span>"
 
@@ -11,22 +11,17 @@ Driven by a relentless Entrepreneurial spirit, I transitioned from cybersecurity
 
 My role as the founder of Neulancers has provided me with invaluable hands-on experience in project management, client relations, and digital marketing. Through these endeavors, I've cultivated a robust skill set, enabling me to navigate the complexities of the entrepreneurial landscape with confidence and finesse.
 
-Fuelled by a steadfast commitment to research and analysis, I remain at the forefront of industry trends, continuously seeking out innovative solutions to multifaceted challenges. My journey is characterized by a relentless pursuit of knowledge and a passion for exploring new frontiers. As I continue to steer Neulancers toward its vision, I remain dedicated to learning and mastering emerging technologies, perpetually striving to push the boundaries of what's possible.</p> 
+Fuelled by a steadfast commitment to research and analysis, I remain at the forefront of industry trends, continuously seeking out innovative solutions to multifaceted challenges. My journey is characterized by a relentless pursuit of knowledge and a passion for exploring new frontiers. As I continue to steer Neulancers towards its vision, I remain dedicated to learning and mastering emerging technologies, perpetually striving to push the boundaries of what's possible.</p>
 
-<p id="h"> Hacker by Passion, Developer by Profession</p> 
+<p id="h"> Hacker by Passion, Developer by Profession</p>
 
+<span id="a">root@Naveen</span>:<span id="b">~</span><span id="c">$</span> cat Contact.txt
 
-<span id="a">root@Naveen</span>:<span id="b">~</span><span id="c">$</span> cat Contact.txt<br/><br/>     
 <p>Social Handles:<br> <a href="https://www.linkedin.com/in/naveenraj-r/"target="_blank">Linkedin</a> <br> <a href="https://www.instagram.com/naveenraj_me/"target="_blank"> Instagram</a><br> <a href="https://x.com/Naveenraj_me?t=9P5sYeOlOpWy3GZGmaughg&s=09" target="_blank">Twitter</a></p>
-
-<span id="a">root@Naveen</span>:<span id="b">~</span><span id="c">$</span> Cool!<br/>
-
-
-           <p>
-                                                                     Entrepreneur’s mind.
-                                                                     Athlete’s body.
-                                                                     Artist’s soul.
-
-                                                                                 -JAMES CLEAR   <p>
-
-
+<span id="a">root@Naveen</span>:<span id="b">~</span><span id="c">$</span>Cool!<br>
+<div class="console-quote">
+Entrepreneur’s mind.<br>
+Athlete’s body.<br>
+Artist’s soul.<br>
+<span class="quote-author">-James Clear </span>
+</div>
