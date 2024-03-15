@@ -6,14 +6,27 @@ Entrepreneur Founder & CEO, Neulancers
 
 <p> As a self-proclaimed tech enthusiast, my journey commenced in 2021 within the realm of cybersecurity. With an insatiable curiosity and a hunger for knowledge, I delved deep into the intricacies of this field, absorbing insights and honing my skills.
 
-Driven by a relentless entrepreneurial spirit, I transitioned from cybersecurity into the dynamic world of startups. In 2021, I founded <a href="https://www.neulancers.com/" target="_blank">Neulancers</a>, a pioneering venture dedicated to empowering clients with bespoke technical solutions crafted from the latest advancements in technology. At Neulancers, we navigate the digital landscape with innovation at our core, harnessing cutting-edge technologies to shape the future.
+Driven by a relentless Entrepreneurial spirit, I transitioned from cybersecurity into the dynamic world of startups. In 2021, I founded <a href="https://www.neulancers.com/" target="_blank">Neulancers</a>, a pioneering venture dedicated to empowering clients with bespoke technical solutions crafted from the latest advancements in technology. At Neulancers, we navigate the digital landscape with innovation at our core, harnessing cutting-edge technologies to shape the future.
 
 My role as the founder of Neulancers has provided me with invaluable hands-on experience in project management, client relations, and digital marketing. Through these endeavors, I've cultivated a robust skill set, enabling me to navigate the complexities of the entrepreneurial landscape with confidence and finesse.
 
-Fuelled by a steadfast commitment to research and analysis, I remain at the forefront of industry trends, continuously seeking out innovative solutions to multifaceted challenges. My journey is characterized by a relentless pursuit of knowledge and a passion for exploring new frontiers. As I continue to steer Neulancers towards its vision, I remain dedicated to learning and mastering emerging technologies, perpetually striving to push the boundaries of what's possible.</p> 
+Fuelled by a steadfast commitment to research and analysis, I remain at the forefront of industry trends, continuously seeking out innovative solutions to multifaceted challenges. My journey is characterized by a relentless pursuit of knowledge and a passion for exploring new frontiers. As I continue to steer Neulancers toward its vision, I remain dedicated to learning and mastering emerging technologies, perpetually striving to push the boundaries of what's possible.</p> 
 
-<p id="h"> Hacker by Passion, Developer by Profession</p> <span id="a">root@Naveen</span>:<span id="b">~</span><span id="c">$</span> cat Contact.txt<br/><br/>     
+<p id="h"> Hacker by Passion, Developer by Profession</p> 
 
+
+<span id="a">root@Naveen</span>:<span id="b">~</span><span id="c">$</span> cat Contact.txt<br/><br/>     
 
 <p>Social Handles:<br> <a href="https://www.linkedin.com/in/naveenraj-r/"target="_blank">Linkedin</a> <br> <a href="https://www.instagram.com/naveenraj_me/"target="_blank"> Instagram</a><br> <a href="https://x.com/Naveenraj_me?t=9P5sYeOlOpWy3GZGmaughg&s=09" target="_blank">Twitter</a></p>
+
 <span id="a">root@Naveen</span>:<span id="b">~</span><span id="c">$</span>Cool!<br/>
+
+
+
+                                                                     Entrepreneur’s mind.
+                                                                     Athlete’s body.
+                                                                     Artist’s soul.
+
+                                                                                 -JAMES CLEAR
+
+
