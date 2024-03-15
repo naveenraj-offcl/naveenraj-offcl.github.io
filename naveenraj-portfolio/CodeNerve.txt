@@ -19,7 +19,7 @@ Fuelled by a steadfast commitment to research and analysis, I remain at the fore
 
 <p>Social Handles:<br> <a href="https://www.linkedin.com/in/naveenraj-r/"target="_blank">Linkedin</a> <br> <a href="https://www.instagram.com/naveenraj_me/"target="_blank"> Instagram</a><br> <a href="https://x.com/Naveenraj_me?t=9P5sYeOlOpWy3GZGmaughg&s=09" target="_blank">Twitter</a></p>
 
-<span id="a">root@Naveen</span>:<span id="b">~</span><span id="c">$</span>Cool!<br/>
+<span id="a">root@Naveen</span>:<span id="b">~</span><span id="c">$</span> Cool!<br/>
 
 
 
